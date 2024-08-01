@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi there! I'm **[Your Name]**, a passionate UX/UI Designer dedicated to creating user-centered digital experiences.
+👋 Hi there! I'm **Anna**, a passionate UX/UI Designer dedicated to creating user-centered digital experiences.
 
 Here are a few things about me:
 
