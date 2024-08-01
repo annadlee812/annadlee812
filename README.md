@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @annadlee812
-- 👀 I’m interested in product management and data analytics.
-- 🌱 I’m currently learning data analytics at UC Berkeley Extension.
-- 💞️ I’m looking to collaborate on products that have a high impact.
-- 📫 How to reach me - email/text.
-- 😄 Pronouns: she/her
+# About Me
+
+👋 Hi there! I'm **[Your Name]**, a passionate UX/UI Designer dedicated to creating user-centered digital experiences.
+
+Here are a few things about me:
+
+🔧 **Skills:**
+- 🎨 Proficient in design tools like **Figma**, **Adobe Creative Suite**, and **Sketch**.
+- 🔍 Experienced in conducting user research and usability testing.
+- 📱 Knowledgeable in designing for both **web** and **mobile** platforms.
+  
+💡 **Interests:**
+- 📊 Data-driven design: I love using insights to inform and improve user experiences.
+- 💻 Experimenting with interactive prototypes that engage and delight users.
+- 🌱 Continuous learning about the latest design trends and methodologies.
+
+🌟 **Fun Facts:**
+- 🌍 I’m passionate about making technology accessible to everyone.
+- 🐾 When I'm not designing, you can find me exploring the outdoors with my dog!
+
+Feel free to check out my repositories and reach out if you'd like to collaborate or connect!
+
+
 
 
 <!---
